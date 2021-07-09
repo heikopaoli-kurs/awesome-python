@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende eine Datei an; Peter.Mustermann@opiz-consulting.com
+
 Your contributions are always welcome!
 
 ## Guideline
